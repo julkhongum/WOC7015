@@ -1,11 +1,13 @@
-Result of comparisons:
-                Classifier  Accuracy
-1            Random Forest  1.000000
-2  Multinomial Naive Bayes  0.981481
-3   Support Vector Machine  0.981481
-4      Logistic Regression  0.981481
-5      K-Nearest Neighbors  0.962963
-6            Decision Tree  0.944444
+Result of comparisons: <br><br/>
+| Classifier               | Accuracy  |
+|--------------------------|-----------|
+| Random Forest            | 1.000000  |
+| Multinomial Naive Bayes  | 0.981481  |
+| Support Vector Machine   | 0.981481  |
+| Logistic Regression      | 0.981481  |
+| K-Nearest Neighbors      | 0.962963  |
+| Decision Tree            | 0.944444  |
+
 <br><br/>
 new classifier used:  K-Nearest Neighbors<br><br/>
 explanation of its accuracy: <br><br/>
